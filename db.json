@@ -16841,6 +16841,7 @@
       "email": "admin@gmail.com",
       "password":"Admin123",
       "role":"super_admin",
+      "createdAt":"2025-07-28T00:00:00.000Z",
       "isActive":true,
       "lastLogin": null
     }
