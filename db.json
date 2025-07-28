@@ -16832,5 +16832,17 @@
       "title": "Wall Mounted 911 Rear Lid",
       "desc": "Original rear lid of the historic Porsche 911 (F model). Magnetic, with hanging device for wall mounting."
     }
+  ],
+  "user":[
+    {
+      "id": 1,
+      "firstName": "Admin",
+      "lastName":"User",
+      "email": "admin@gmail.com",
+      "password":"Admin123",
+      "role":"super_admin",
+      "isActive":true,
+      "lastLogin": null
+    }
   ]
 }
