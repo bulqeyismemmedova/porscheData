@@ -3,7 +3,7 @@
     {
       "model": "718",
       "img": "https://nav.porsche.com/00BC524/series-assets/all/718.webp",
-      "fuelType": "Gasoline"
+      "fuelType": ["Gasoline"]
     },
     {
       "model": "911",
