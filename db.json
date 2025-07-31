@@ -1,50 +1,46 @@
 {
   "model": [
     {
-      "model": [
-        {
-          "model": "718",
-          "img": "https://nav.porsche.com/00BC524/series-assets/all/718.webp",
-          "fuelType": "Gasoline"
-        },
-        {
-          "model": "911",
-          "img": "https://nav.porsche.com/00BC524/series-assets/all/911.webp",
-          "fuelType": [
-            "Gasoline"
-          ]
-        },
-        {
-          "model": "Taycan",
-          "img": "https://nav.porsche.com/00BC524/series-assets/all/taycan.webp",
-          "fuelType": [
-            "Electric"
-          ]
-        },
-        {
-          "model": "Panamera",
-          "img": "https://nav.porsche.com/00BC524/series-assets/all/panamera.webp",
-          "fuelType": [
-            "Hybrid",
-            "Gasoline"
-          ]
-        },
-        {
-          "model": "Macan",
-          "img": "https://nav.porsche.com/00BC524/series-assets/all/macan.webp",
-          "fuelType": [
-            "Electric",
-            "Gasoline"
-          ]
-        },
-        {
-          "model": "Cayenne",
-          "img": "https://nav.porsche.com/00BC524/series-assets/all/cayenne.webp",
-          "fuelType": [
-            "Hybrid",
-            "Gasoline"
-          ]
-        }
+      "model": "718",
+      "img": "https://nav.porsche.com/00BC524/series-assets/all/718.webp",
+      "fuelType": "Gasoline"
+    },
+    {
+      "model": "911",
+      "img": "https://nav.porsche.com/00BC524/series-assets/all/911.webp",
+      "fuelType": [
+        "Gasoline"
+      ]
+    },
+    {
+      "model": "Taycan",
+      "img": "https://nav.porsche.com/00BC524/series-assets/all/taycan.webp",
+      "fuelType": [
+        "Electric"
+      ]
+    },
+    {
+      "model": "Panamera",
+      "img": "https://nav.porsche.com/00BC524/series-assets/all/panamera.webp",
+      "fuelType": [
+        "Hybrid",
+        "Gasoline"
+      ]
+    },
+    {
+      "model": "Macan",
+      "img": "https://nav.porsche.com/00BC524/series-assets/all/macan.webp",
+      "fuelType": [
+        "Electric",
+        "Gasoline"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "img": "https://nav.porsche.com/00BC524/series-assets/all/cayenne.webp",
+      "fuelType": [
+        "Hybrid",
+        "Gasoline"
       ]
     }
   ],
@@ -16833,16 +16829,16 @@
       "desc": "Original rear lid of the historic Porsche 911 (F model). Magnetic, with hanging device for wall mounting."
     }
   ],
-  "user":[
+  "user": [
     {
       "id": 1,
       "firstName": "Admin",
-      "lastName":"User",
+      "lastName": "User",
       "email": "admin@gmail.com",
-      "password":"Admin123",
-      "role":"super_admin",
-      "createdAt":"2025-07-28T00:00:00.000Z",
-      "isActive":true,
+      "password": "Admin123",
+      "role": "super_admin",
+      "createdAt": "2025-07-28T00:00:00.000Z",
+      "isActive": true,
       "lastLogin": null
     }
   ]
