@@ -3,7 +3,9 @@
     {
       "model": "718",
       "img": "https://nav.porsche.com/00BC524/series-assets/all/718.webp",
-      "fuelType": ["Gasoline"]
+      "fuelType": [
+        "Gasoline"
+      ]
     },
     {
       "model": "911",
@@ -2376,6 +2378,23 @@
           "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
+      "chassis": [
+        {
+          "title": "Porsche Stability Management (PSM).",
+          "img": "https://images-porsche.imgix.net/-/media/42399DABA41E4B1E8279825AF80515CE_0D790F7A0E804E28A983C197C3943248_CM22N3JOX0015-718-cayman-gt4-rs-psm?w=999&ar=125%3A66&q=85&auto=format",
+          "desc": "PSM is an automatic control system for maintaining stability at the limits of dynamic driving performance. The systems can be switched off completely in two stages."
+        },
+        {
+          "title": "Lift system on the front axle.",
+          "img": "https://images-porsche.imgix.net/-/media/8257AFFADF914806822EF46BA57AA132_A892F7E105A4448C9977848223D242F3_718-cayman-gt4-rs-lift-system?fp-x=0.5&fp-y=0.5&w=975&ar=27%3A11&q=85&crop=focalpoint&auto=format",
+          "desc": "30mm may not sound like much, but it makes the difference at speeds of up to around 37 mph with the increased ground clearance."
+        },
+        {
+          "title": "Deceleration in RS style.",
+          "img": "https://images-porsche.imgix.net/-/media/234BA5E444E04A2497755A8067BE3BD1_ED9146F640A346A8991F29AA0F1ED8CD_718-cayman-gt4-rs-brake?w=999&ar=125%3A66&q=85&auto=format",
+          "desc": "For fast and safe braking to a standstill: Six-piston front and four-piston rear aluminum monobloc fixed calipers in red and large cast-iron brake discs. The efficient brake ventilation and cooling system is specially designed for high loads."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -2564,6 +2583,23 @@
           "title": "PTV",
           "img": "https://images-porsche.imgix.net/-/media/8D95DB936EA044ED80E2C4F5FCDB8E88_0371AA1DF6C24F5992BF4CD73C7E8724_CZ20V00GR0048-911-carrera-t-ptv?w=999&ar=125%3A66&q=85&auto=format",
           "desc": "PTV enhances vehicle dynamics and stability by applying brake pressure to the rear wheels, in conjunction with a rear differential lock. For increased stability, outstanding traction and high agility."
+        }
+      ],
+      "chassis": [
+        {
+          "title": "Porsche Stability Management (PSM).",
+          "img": "https://images-porsche.imgix.net/-/media/42399DABA41E4B1E8279825AF80515CE_0D790F7A0E804E28A983C197C3943248_CM22N3JOX0015-718-cayman-gt4-rs-psm?w=999&ar=125%3A66&q=85&auto=format",
+          "desc": "PSM is an automatic control system for maintaining stability at the limits of dynamic driving performance. The systems can be switched off completely in two stages."
+        },
+        {
+          "title": "Lift system on the front axle.",
+          "img": "https://images-porsche.imgix.net/-/media/8257AFFADF914806822EF46BA57AA132_A892F7E105A4448C9977848223D242F3_718-cayman-gt4-rs-lift-system?fp-x=0.5&fp-y=0.5&w=975&ar=27%3A11&q=85&crop=focalpoint&auto=format",
+          "desc": "30mm may not sound like much, but it makes the difference at speeds of up to around 37 mph with the increased ground clearance."
+        },
+        {
+          "title": "Deceleration in RS style.",
+          "img": "https://images-porsche.imgix.net/-/media/234BA5E444E04A2497755A8067BE3BD1_ED9146F640A346A8991F29AA0F1ED8CD_718-cayman-gt4-rs-brake?w=999&ar=125%3A66&q=85&auto=format",
+          "desc": "For fast and safe braking to a standstill: Six-piston front and four-piston rear aluminum monobloc fixed calipers in red and large cast-iron brake discs. The efficient brake ventilation and cooling system is specially designed for high loads."
         }
       ],
       "transmission": [
@@ -2785,6 +2821,23 @@
           "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
+      "chassis": [
+        {
+          "title": "Porsche Stability Management (PSM).",
+          "img": "https://images-porsche.imgix.net/-/media/42399DABA41E4B1E8279825AF80515CE_0D790F7A0E804E28A983C197C3943248_CM22N3JOX0015-718-cayman-gt4-rs-psm?w=999&ar=125%3A66&q=85&auto=format",
+          "desc": "PSM is an automatic control system for maintaining stability at the limits of dynamic driving performance. The systems can be switched off completely in two stages."
+        },
+        {
+          "title": "Lift system on the front axle.",
+          "img": "https://images-porsche.imgix.net/-/media/8257AFFADF914806822EF46BA57AA132_A892F7E105A4448C9977848223D242F3_718-cayman-gt4-rs-lift-system?fp-x=0.5&fp-y=0.5&w=975&ar=27%3A11&q=85&crop=focalpoint&auto=format",
+          "desc": "30mm may not sound like much, but it makes the difference at speeds of up to around 37 mph with the increased ground clearance."
+        },
+        {
+          "title": "Deceleration in RS style.",
+          "img": "https://images-porsche.imgix.net/-/media/234BA5E444E04A2497755A8067BE3BD1_ED9146F640A346A8991F29AA0F1ED8CD_718-cayman-gt4-rs-brake?w=999&ar=125%3A66&q=85&auto=format",
+          "desc": "For fast and safe braking to a standstill: Six-piston front and four-piston rear aluminum monobloc fixed calipers in red and large cast-iron brake discs. The efficient brake ventilation and cooling system is specially designed for high loads."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -3002,6 +3055,23 @@
           "title": "PDK",
           "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
           "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
+      "chassis": [
+        {
+          "title": "Porsche Stability Management (PSM).",
+          "img": "https://images-porsche.imgix.net/-/media/42399DABA41E4B1E8279825AF80515CE_0D790F7A0E804E28A983C197C3943248_CM22N3JOX0015-718-cayman-gt4-rs-psm?w=999&ar=125%3A66&q=85&auto=format",
+          "desc": "PSM is an automatic control system for maintaining stability at the limits of dynamic driving performance. The systems can be switched off completely in two stages."
+        },
+        {
+          "title": "Lift system on the front axle.",
+          "img": "https://images-porsche.imgix.net/-/media/8257AFFADF914806822EF46BA57AA132_A892F7E105A4448C9977848223D242F3_718-cayman-gt4-rs-lift-system?fp-x=0.5&fp-y=0.5&w=975&ar=27%3A11&q=85&crop=focalpoint&auto=format",
+          "desc": "30mm may not sound like much, but it makes the difference at speeds of up to around 37 mph with the increased ground clearance."
+        },
+        {
+          "title": "Deceleration in RS style.",
+          "img": "https://images-porsche.imgix.net/-/media/234BA5E444E04A2497755A8067BE3BD1_ED9146F640A346A8991F29AA0F1ED8CD_718-cayman-gt4-rs-brake?w=999&ar=125%3A66&q=85&auto=format",
+          "desc": "For fast and safe braking to a standstill: Six-piston front and four-piston rear aluminum monobloc fixed calipers in red and large cast-iron brake discs. The efficient brake ventilation and cooling system is specially designed for high loads."
         }
       ],
       "transmission": [
@@ -3666,6 +3736,13 @@
           "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -3850,6 +3927,13 @@
           "title": "PTV",
           "img": "https://images-porsche.imgix.net/-/media/8D95DB936EA044ED80E2C4F5FCDB8E88_0371AA1DF6C24F5992BF4CD73C7E8724_CZ20V00GR0048-911-carrera-t-ptv?w=999&ar=125%3A66&q=85&auto=format",
           "desc": "PTV enhances vehicle dynamics and stability by applying brake pressure to the rear wheels, in conjunction with a rear differential lock. For increased stability, outstanding traction and high agility."
+        }
+      ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "transmission": [
@@ -4058,6 +4142,13 @@
           "desc": "PTV enhances vehicle dynamics and stability by applying brake pressure to the rear wheels, in conjunction with a rear differential lock. For increased stability, outstanding traction and high agility."
         }
       ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -4262,6 +4353,13 @@
           "title": "PTV",
           "img": "https://images-porsche.imgix.net/-/media/8D95DB936EA044ED80E2C4F5FCDB8E88_0371AA1DF6C24F5992BF4CD73C7E8724_CZ20V00GR0048-911-carrera-t-ptv?w=999&ar=125%3A66&q=85&auto=format",
           "desc": "PTV enhances vehicle dynamics and stability by applying brake pressure to the rear wheels, in conjunction with a rear differential lock. For increased stability, outstanding traction and high agility."
+        }
+      ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "transmission": [
@@ -5136,6 +5234,13 @@
           "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -5322,6 +5427,13 @@
         }
       ],
       "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
+      "chassis": [
         {
           "title": "PDK",
           "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
@@ -6287,6 +6399,13 @@
           "desc": "The 7-speed Porsche Doppelkupplung (PDK) with sporty tuning and the 6-speed GT Sport manual transmission¹, which is 37 lbs lighter, delight with short gear ratios offering high agility. The gearshift feel: precise and direct."
         }
       ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "chassis": [
         {
           "title": "Aero bars",
@@ -6509,6 +6628,13 @@
           "title": "7-speed PDK and manual transmission.",
           "img": "https://images-porsche.imgix.net/-/media/A63FEFAC033D4B2B91253DA3C77E1DD1_23F4E3841C404839A9850D25E9B26544_911-gt3-pdk?fp-x=0.5&fp-y=0.5&w=975&ar=27%3A11&q=85&crop=focalpoint&auto=format",
           "desc": "The 7-speed Porsche Doppelkupplung (PDK) with sporty tuning and the 6-speed GT Sport manual transmission¹, which is 37 lbs lighter, delight with short gear ratios offering high agility. The gearshift feel: precise and direct."
+        }
+      ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "chassis": [
@@ -6985,6 +7111,13 @@
           "desc": "Automatically shifting 2-speed transmission."
         }
       ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "chassis": [
         {
           "title": "800-V technology.",
@@ -7232,6 +7365,13 @@
           "title": "302 Ib-ft",
           "img": "https://images-porsche.imgix.net/-/media/0AC88DDA0DF646488D5038EC58D81118_756AC9A729E140C4AB51AF0A448E564B_taycan-turbo-s-transmission?w=999&ar=5%3A11&q=85&auto=format",
           "desc": "Automatically shifting 2-speed transmission."
+        }
+      ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "chassis": [
@@ -7487,6 +7627,30 @@
           "title": "Driver's key with key pouch.",
           "img": "https://images-porsche.imgix.net/-/media/D3C35F627F764DA0A90084D1D3C19878_D319AFB17F4A4B18A7106C66EBEC1BE6_TA26Q3CID0022-taycan-black-edition-keys?w=1759&q=85&auto=format",
           "desc": "Completing the Black Edition: Set of two driver's keys painted in High Gloss Black with Black Edition lettering and exclusive key pouch."
+        }
+      ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
+      "chassis": [
+        {
+          "title": "800-V technology.",
+          "img": "https://images-porsche.imgix.net/-/media/A51B5DF6A4B345FC961E36121BDD5BA3_B17AE29D18A24F629BFE5AEE058BBCC6_taycan-800-v-technology?w=999&ar=125%3A66&q=85&auto=format",
+          "desc": "For fast charging with up to 320 kW 1  charging power and outstanding performance, the batteries are based on 800-V technology. The technology also enables smaller cable cross-sections, for reduced vehicle weight."
+        },
+        {
+          "title": "Air suspension.",
+          "img": "https://images-porsche.imgix.net/-/media/DD972D1672C24A3AADAF2219BF5DF4D4_7B5C00D59CD049ED9B2D046E72DC3460_taycan-turbo-s-air-suspension?w=999&ar=5%3A11&q=85&auto=format",
+          "desc": "The adaptive air suspension with PASM reacts extremely quickly to dynamic changes while driving — depending on preferences and the selected driving mode with a focus on sportiness or comfort. For driving over uneven surfaces, the Smart Lift function raises the vehicle at the push of a button and saves the location so that it can react automatically in the future."
+        },
+        {
+          "title": "Rear-axle steering.",
+          "img": "https://images-porsche.imgix.net/-/media/4A47BDF453C74D32871F4BF0AC3101F2_83EC3B2024AB48FF95B9065FC2135910_taycan-turbo-s-rear-axle?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The optional rear-axle steering, which is standard on the Taycan Turbo S, ensures more dynamic steering behavior while cornering and makes maneuvering and parking in tight spaces much easier."
         }
       ],
       "transmission": [
@@ -7745,6 +7909,13 @@
           "desc": "Automatically shifting 2-speed transmission."
         }
       ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "chassis": [
         {
           "title": "800-V technology.",
@@ -7960,6 +8131,13 @@
           "title": "582 Ib-ft",
           "img": "https://images-porsche.imgix.net/-/media/0AC88DDA0DF646488D5038EC58D81118_756AC9A729E140C4AB51AF0A448E564B_taycan-turbo-s-transmission?w=999&ar=5%3A11&q=85&auto=format",
           "desc": "Automatically shifting 2-speed transmission."
+        }
+      ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "chassis": [
@@ -8187,6 +8365,13 @@
           "desc": "Automatically shifting 2-speed transmission."
         }
       ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "chassis": [
         {
           "title": "800-V technology.",
@@ -8408,6 +8593,13 @@
           "desc": "Automatically shifting 2-speed transmission."
         }
       ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "chassis": [
         {
           "title": "800-V technology.",
@@ -8619,6 +8811,13 @@
           "desc": "Automatically shifting 2-speed transmission."
         }
       ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "chassis": [
         {
           "title": "800-V technology.",
@@ -8826,6 +9025,13 @@
           "title": "914 Ib-ft",
           "img": "https://images-porsche.imgix.net/-/media/0AC88DDA0DF646488D5038EC58D81118_756AC9A729E140C4AB51AF0A448E564B_taycan-turbo-s-transmission?w=999&ar=5%3A11&q=85&auto=format",
           "desc": "Automatically shifting 2-speed transmission."
+        }
+      ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "chassis": [
@@ -9073,6 +9279,13 @@
           "desc": "Automatically shifting 2-speed transmission."
         }
       ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "chassis": [
         {
           "title": "800-V technology.",
@@ -9318,6 +9531,13 @@
           "desc": "Automatically shifting 2-speed transmission."
         }
       ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "chassis": [
         {
           "title": "800-V technology.",
@@ -9561,6 +9781,13 @@
           "title": "656 Ib-ft",
           "img": "https://images-porsche.imgix.net/-/media/0AC88DDA0DF646488D5038EC58D81118_756AC9A729E140C4AB51AF0A448E564B_taycan-turbo-s-transmission?w=999&ar=5%3A11&q=85&auto=format",
           "desc": "Automatically shifting 2-speed transmission."
+        }
+      ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "chassis": [
@@ -9812,6 +10039,13 @@
           "desc": "Automatically shifting 2-speed transmission."
         }
       ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "chassis": [
         {
           "title": "800-V technology.",
@@ -10031,6 +10265,13 @@
           "title": "582 Ib-ft",
           "img": "https://images-porsche.imgix.net/-/media/DED50D512A17402385B95477F345C0C9_916545021F4C4DC483BE43A066F42AB3_taycan-gts-sport-turismo-rear?fp-x=0.5&fp-y=0.5&w=300&ar=5%3A11&q=85&crop=focalpoint&auto=format",
           "desc": "Automatically shifting 2-speed transmission."
+        }
+      ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "chassis": [
@@ -10257,6 +10498,13 @@
           "desc": "Unusual in a luxury sedan, standard in a sports car: the 8-speed Porsche Doppelkupplung (PDK) with automatic mode and manual operation via paddles on the steering wheel. The precise gear changes take place in milliseconds without any noticeable interruption in traction."
         }
       ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "chassis": [
         {
           "title": "All-wheel drive.",
@@ -10474,6 +10722,13 @@
           "title": "8-speed PDK.",
           "img": "https://images-porsche.imgix.net/-/media/8B72D28D17AC4214AA1388796FEFB2B8_B82AABF2F0CA4F8D9FB3BA9484D27485_panamera-turbo-e-hybrid-transmission?w=1759&q=85&auto=format",
           "desc": "Unusual in a luxury sedan, standard in a sports car: the 8-speed Porsche Doppelkupplung (PDK) with automatic mode and manual operation via paddles on the steering wheel. The precise gear changes take place in milliseconds without any noticeable interruption in traction."
+        }
+      ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "chassis": [
@@ -10718,6 +10973,13 @@
           "desc": "The electric motor, with a maximum power of 140 kW (187 hp) and a maximum torque of 331 lb-ft, ensures superior driving performance in the purely electric E-Mode and recuperates energy back into the battery during deceleration."
         }
       ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "chassis": [
         {
           "title": "Driving modes.",
@@ -10960,6 +11222,13 @@
           "desc": "The electric motor, with a maximum power of 140 kW (187 hp) and a maximum torque of 331 lb-ft, ensures superior driving performance in the purely electric E-Mode and recuperates energy back into the battery during deceleration."
         }
       ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "chassis": [
         {
           "title": "Driving modes.",
@@ -11144,6 +11413,13 @@
           "title": "Chassis",
           "img": "https://images-porsche.imgix.net/-/media/AE7A6434D0144D8798A5EB2A935ADD08_F06FAE851330476BA84870AEFC2850C6_PA24P5JOX0005-driving-dynamics?w=1759&q=85&auto=format",
           "desc": "The sport suspension, specially tuned for the Panamera GTS, enables particularly high driving dynamics. The adaptive air suspension features fully load-bearing air spring struts in 2-chamber 2-valve technology, lowering of 10 mm and the electronically controlled Porsche Active Suspension Management (PASM) damper system. The rear axle sway bar and the tuning of the chassis control systems are also GTS-specific."
+        }
+      ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "chassis": [
@@ -11401,6 +11677,13 @@
           "desc": "The electric motor, with a maximum power of 140 kW (187 hp) and a maximum torque of 331 lb-ft, ensures superior driving performance in the purely electric E-Mode and recuperates energy back into the battery during deceleration."
         }
       ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "chassis": [
         {
           "title": "Driving modes.",
@@ -11615,6 +11898,13 @@
           "title": "Electric motor",
           "img": "https://images-porsche.imgix.net/-/media/6A161CA89CE345C998C64C9CB432BEF8_551AAB096BF8438285F8F20013F81756_panamera-turbo-e-hybrid-transmission?w=999&ar=27%3A11&q=85&auto=format",
           "desc": "The electric motor, with a maximum power of 140 kW (187 hp) and a maximum torque of 331 lb-ft, ensures superior driving performance in the purely electric E-Mode and recuperates energy back into the battery during deceleration."
+        }
+      ],
+      "powerTras": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "chassis": [
@@ -12730,6 +13020,13 @@
           "desc": "The electronically controlled Porsche Active Suspension Management (PASM) with 2-valve dampers increases comfort in all driving situations and enables even more precise driving behavior."
         }
       ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -12932,6 +13229,13 @@
           "title": "PASM. ",
           "img": "https://images-porsche.imgix.net/-/media/ADB115C858CA4D2E8FC9DD0A3E188BC9_DCCE0E9E314A430BA5752EB4880B2039_macan-4-pasm?fp-x=0.5&fp-y=0.5&w=300&ar=5%3A11&q=85&crop=focalpoint&auto=format",
           "desc": "The electronically controlled Porsche Active Suspension Management (PASM) with 2-valve dampers increases comfort in all driving situations and enables even more precise driving behavior."
+        }
+      ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "transmission": [
@@ -13138,6 +13442,13 @@
           "desc": "The electronically controlled Porsche Active Suspension Management (PASM) with 2-valve dampers increases comfort in all driving situations and enables even more precise driving behavior."
         }
       ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -13340,6 +13651,13 @@
           "title": "PASM. ",
           "img": "https://images-porsche.imgix.net/-/media/ADB115C858CA4D2E8FC9DD0A3E188BC9_DCCE0E9E314A430BA5752EB4880B2039_macan-4-pasm?fp-x=0.5&fp-y=0.5&w=300&ar=5%3A11&q=85&crop=focalpoint&auto=format",
           "desc": "The electronically controlled Porsche Active Suspension Management (PASM) with 2-valve dampers increases comfort in all driving situations and enables even more precise driving behavior."
+        }
+      ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "transmission": [
@@ -13633,6 +13951,13 @@
           "title": "Brakes",
           "img": "https://images-porsche.imgix.net/-/media/B4813BC7FB794C63BEA49A8501CC5BC1_5D3C688068874F7288FB5352BE940774_CY25J5COD0001-brakes?w=640&q=85&auto=format",
           "desc": "That's why all Cayenne and Cayenne S models are equipped with a brake system with six-piston aluminum monobloc fixed calipers at the front and four-piston aluminum monobloc fixed calipers at the rear. The one-piece, closed construction results in a very high dimensional stability. The pressure point is precise and the braking distance is impressively short."
+        }
+      ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "transmission": [
@@ -13944,6 +14269,13 @@
           "desc": "The lithium-ion battery ensures superior driving performance in E-mode. For more flexibility on the road, the battery can be charged in E-Charge mode using the combustion engine or the high-performance AC charging process."
         }
       ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -14233,6 +14565,13 @@
           "desc": "That's why all Cayenne and Cayenne S models are equipped with a brake system with six-piston aluminum monobloc fixed calipers at the front and four-piston aluminum monobloc fixed calipers at the rear. The one-piece, closed construction results in a very high dimensional stability. The pressure point is precise and the braking distance is impressively short."
         }
       ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -14506,6 +14845,13 @@
           "desc": "The lithium-ion battery ensures superior driving performance in E-mode. For more flexibility on the road, the battery can be charged in E-Charge mode using the combustion engine or the high-performance AC charging process."
         }
       ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -14761,6 +15107,13 @@
           "title": "Brakes",
           "img": "https://images-porsche.imgix.net/-/media/8D4410092C274DC9B416AF9A269CFB62_E85A06169B044907B9DF828F27A4DDE5_CY25J5FOD0001-brakes?w=640&q=85&auto=format",
           "desc": "The brake system is adapted to the exceptional power output of the GTS models. The brakes feature 6-piston aluminum monobloc fixed calipers at the front and 4-piston aluminum monobloc fixed calipers at the rear. The brake disc diameter: 410 mm at front and 365 mm at rear. The Porsche Ceramic Composite Brakes (PCCB) with carbon fiber-reinforced ceramic brake discs is available as an option."
+        }
+      ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "transmission": [
@@ -15040,6 +15393,13 @@
           "desc": "The lithium-ion battery ensures superior driving performance in E-mode. For more flexibility on the road, the battery can be charged in E-Charge mode using the combustion engine or the high-performance AC charging process."
         }
       ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -15264,6 +15624,13 @@
           "title": "Brakes",
           "img": "https://images-porsche.imgix.net/-/media/8D4410092C274DC9B416AF9A269CFB62_E85A06169B044907B9DF828F27A4DDE5_CY25J5FOD0001-brakes?w=640&q=85&auto=format",
           "desc": "The brake system is adapted to the exceptional power output of the GTS models. The brakes feature 6-piston aluminum monobloc fixed calipers at the front and 4-piston aluminum monobloc fixed calipers at the rear. The brake disc diameter: 410 mm at front and 365 mm at rear. The Porsche Ceramic Composite Brakes (PCCB) with carbon fiber-reinforced ceramic brake discs is available as an option."
+        }
+      ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "transmission": [
@@ -15506,6 +15873,13 @@
           "desc": "The brake system is adapted to the exceptional power output of the GTS models. The brakes feature 6-piston aluminum monobloc fixed calipers at the front and 4-piston aluminum monobloc fixed calipers at the rear. The brake disc diameter: 410 mm at front and 365 mm at rear. The Porsche Ceramic Composite Brakes (PCCB) with carbon fiber-reinforced ceramic brake discs is available as an option."
         }
       ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -15738,6 +16112,13 @@
           "title": "Brakes",
           "img": "https://images-porsche.imgix.net/-/media/8D4410092C274DC9B416AF9A269CFB62_E85A06169B044907B9DF828F27A4DDE5_CY25J5FOD0001-brakes?w=640&q=85&auto=format",
           "desc": "The brake system is adapted to the exceptional power output of the GTS models. The brakes feature 6-piston aluminum monobloc fixed calipers at the front and 4-piston aluminum monobloc fixed calipers at the rear. The brake disc diameter: 410 mm at front and 365 mm at rear. The Porsche Ceramic Composite Brakes (PCCB) with carbon fiber-reinforced ceramic brake discs is available as an option."
+        }
+      ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "transmission": [
@@ -16018,6 +16399,13 @@
           "desc": "The lithium-ion battery ensures superior driving performance in E-mode. For more flexibility on the road, the battery can be charged in E-Charge mode using the combustion engine or the high-performance AC charging process."
         }
       ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -16265,6 +16653,13 @@
           "title": "Brakes",
           "img": "https://images-porsche.imgix.net/-/media/8D4410092C274DC9B416AF9A269CFB62_E85A06169B044907B9DF828F27A4DDE5_CY25J5FOD0001-brakes?w=640&q=85&auto=format",
           "desc": "The brake system is adapted to the exceptional power output of the GTS models. The brakes feature 6-piston aluminum monobloc fixed calipers at the front and 4-piston aluminum monobloc fixed calipers at the rear. The brake disc diameter: 410 mm at front and 365 mm at rear. The Porsche Ceramic Composite Brakes (PCCB) with carbon fiber-reinforced ceramic brake discs is available as an option."
+        }
+      ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "transmission": [
@@ -16540,6 +16935,13 @@
           "desc": "The lithium-ion battery ensures superior driving performance in E-mode. For more flexibility on the road, the battery can be charged in E-Charge mode using the combustion engine or the high-performance AC charging process."
         }
       ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
+        }
+      ],
       "transmission": [
         "Automatic"
       ],
@@ -16779,6 +17181,13 @@
           "title": "Brakes",
           "img": "https://images-porsche.imgix.net/-/media/015E4D490A614A0CB07463DC19A454B1_4DE6260720A748EE8E3AB2767FBD2E1B_CY25J5SOD0003-brakes?w=1759&q=85&auto=format",
           "desc": "Proven in motorsports: the Porsche  Ceramic Composite Brake (PCCB). The cross-drilled ceramic brake discs have a diameter of 440 mm at the front 410 mm at the rear. The PCCB has Yellow 10-piston aluminum monobloc fixed calipers on the front axle and 4-piston aluminum monobloc fixed calipers on the rear axle. They provide brake pressure that is considerably more powerful and, crucially, exceptionally consistent during prolonged use."
+        }
+      ],
+      "chassis": [
+        {
+          "title": "PDK",
+          "img": "https://images-porsche.imgix.net/-/media/B798FA2CCC40446A84F9A39AA007ABAB_BCF6EC1137B54F73B18D7B15A7E73F2C_CZ20V00GR0026-911-carrera-pdk?w=999&ar=27%3A11&q=85&auto=format",
+          "desc": "The 8-speed Porsche Doppelkupplung (PDK) allows extremely fast gear changes without interrupting the flow of power. The PDK combines sporty tuning in 1st to 6th gear with efficient overdrive ratios (7th and 8th gear)."
         }
       ],
       "transmission": [
