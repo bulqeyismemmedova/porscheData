@@ -467,21 +467,8 @@
           "color": "#782f2f",
           "img": "https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXkBuNYdMGF4tl3U5Yz8rMHIspbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmHlCgI7Zl2dioCx3hQDcFG8UpYnfurEUx5yPewymeCvNzxMYHGXoq1kGUr6FObzWswRuT0qVMx7e2HOvq1UzQK6VXbsqYSUzW0iO5MAPCvNzxY4FGXVD2UxLODmLRXi97RgTfeIJpV7nDhQS",
           "price": 3060
-        },
-        {
-          "type": "leather",
-          "name": "Leather Interior in Black/Bordeaux Red",
-          "color": "linear-gradient(rgb(0, 0, 0) 50%, rgb(120, 47, 47) 50%)",
-          "img": "https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXkBuNYdMGF4tl3U5Yz8rMHIspbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmHlCgI7Zl2dioCx3hQDcFG8UpYnfurEUx5yPewymeCvNzxMYHGXoq1kGUr6FObzWswRuT0qVMx7e2HOvq1UzQK6VXbsqYSUzW0iO5M1B2HcTCkbvGXVD2UxLODmLRXi97RgTfeIJpV7nDhQS",
-          "price": 3060
-        },
-        {
-          "type": "leather",
-          "name": "Leather Interior in Black/Chalk",
-          "color": "linear-gradient(rgb(0, 0, 0) 50%, rgb(207, 209, 207) 50%)",
-          "img": "https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXkBuNYdMGF4tl3U5Yz8rMHIspbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmHlCgI7Zl2dioCx3hQDcFG8UpYnfurEUx5yPewymeCvNzxMYHGXoq1kGUr6FObzWswRuT0qVMx7e2HOvq1UzQK6VXbsqYSUzW0iO5M1B2HcTCkbOGXVD2UxLODmLRXi97RgTfeIJpV7nDhQS",
-          "price": 3060
         }
+        
       ],
       "Seats": [
         {
@@ -497,13 +484,6 @@
           "img": "https://configurator.porsche.com/assets/seats/982/studio_P06.jpg?h=e17c2fd626210f24cce0f4f6f41e3d1f",
           "carImg": "https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXkBuNYdMGF4tl3U5Yz8rMH1spbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmHlCgI7Zl2dioCx3hQDcFG8UpYnfurEUx5yPewymeCvNzxMYHGXoq1kGUr6FObzWswRuT0qVMx7e2HOvq1UzQK6VXbsqYSUzW0iO5MuqCvNzxY4bGXoq15%25ur6hnQs1ITngI76c4U7l2Pz3BZhUynAYM",
           "price": 2190
-        },
-        {
-          "type": "sport plus",
-          "name": "Sport Seats (2-way)",
-          "img": "https://configurator.porsche.com/assets/seats/982/studio_P08.jpg?h=e17c2fd626210f24cce0f4f6f41e3d1f",
-          "carImg": "https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXkBuNYdMGF4tl3U5Yz8rMH1spbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmHlCgI7Zl2dioCx3hQDcFG8UpYnfurEUx5yPewymeCvNzxMYHGXoq1kGUr6FObzWswRuT0qVMx7e2HOvq1UzQK6VXbsqYSUzW0iO5MuqCvNzxY4FGXVD2UxLODmLRXi97RgTfeIJpV7nDhQS",
-          "price": 460
         },
         {
           "type": "sport",
